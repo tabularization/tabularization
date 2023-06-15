@@ -1,11 +1,8 @@
 👋 Hello! I'm Dennis! Currently a sophomore studying Computer Science at Boston University. 🎓🖥️
 
 💼 With a strong focus on Python programming, I strive to deepen my understanding of software development, algorithms, and data structures. I find immense joy in solving intricate problems and leveraging the power of Python to create efficient and elegant solutions.
-   As an enthusiastic learner, I actively engage in the CS community, constantly seeking opportunities to expand my knowledge and stay on top of the latest industry trends. 
 
-🚀 Beyond coding, I am keen on exploring emerging technologies and their potential applications. I enjoy delving into topics such as artificial intelligence, machine learning, and data analysis, aiming to contribute to cutting-edge advancements in these fields. In my free time, I like gaming, reading, and venturing. 
-
-💻 Currently, I am strengthening my skills in Python, HTML, and CSS. I am also expanding my knowledge of database systems and web development to develop well-rounded competencies in the realm of software engineering.
+💻 Currently, I am strengthening my skills in Python, HTML, and CSS. I am also expanding my knowledge of database systems and web development to develop well-rounded competencies in the realm of software engineering. Working on a stock market discord bot at the moment. 
 
 🤝 I am always excited to connect with like-minded developers, researchers, and tech enthusiasts. If you're interested in collaborating, discussing innovative projects, or sharing insights on Python programming and its applications, please don't hesitate to reach out.
 
