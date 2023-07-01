@@ -1,19 +1,14 @@
-👋 Hello, I'm Dennis! Currently a sophomore studying Computer Science at Boston University. 
-
-I primarily focus on Python programming and have experience working with various libraries and frameworks. Currently, I am working on a discord bot that monitors the price movement of the stock market (NYSE) and the news associated with the price fluctation. I am still strengthening my skills in Python, HTML, and CSS, so I strive to deepen my understanding of software development, algorithms, and data structures. I find immense joy in solving intricate problems and leveraging the power of Python to create efficient and elegant solutions.
-
-I am always excited to connect with like-minded developers, researchers, and tech enthusiasts. If you're interested in collaborating, discussing innovative projects, or sharing insights on Python programming and its applications, please don't hesitate to reach out.
-
-✉️ Feel free to contact me. Let's work together to build remarkable software solutions that make a lasting impact! 💪💻
+# Hi 👋, I'm Dennis
+## Aspiring Full-Stack Developer
+🔭 Currently developing a Discord bot that find the most affordable flight prices.<br><br>🌱 Currently learning HTML, CSS, and JS. Exploring the world of web development and striving to enhance my skills.<br><br>🤝 Open to collaborate on exciting and innovative projects. Feel free to reach out if you have something in mind!
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tabularization&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tabularization&show_icons=true&locale=en" alt="test" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=bob&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabularization&" alt="test" /></p>
-<!---
-tabularization/tabularization is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
