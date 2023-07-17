@@ -1,13 +1,50 @@
-<h1 align="center">Hi, I'm Dennis 👋</h1>
-<h2>Aspiring Full-Stack Developer</h2>
+<div align="center">
+  <img height="200" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"  />
+</div>
 
-🔭 Currently developing a Discord bot that find the most affordable flight prices.<br><br>
-🌱 Currently learning Javascript. Exploring the world of web development and striving to enhance my skills.<br><br>
-🤝 Open to collaborate on exciting and innovative projects. Feel free to reach out if you have something in mind!
+###
 
+<h1 align="center">Hey there, I'm Dennis 👋</h1>
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=tabularization&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+###
+
+<h2 align="left">👩‍💻  About Me</h2>
+
+###
+
+<p align="left">- 🔭 I’m currently a student studying computer science at BU<br>- 📚 I'm currently learning Javascript<br>- ⚡ In my free time I like to read manga</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats </h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tabularization&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
