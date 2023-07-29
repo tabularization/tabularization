@@ -1,9 +1,3 @@
-<div align="center">
-  <img height=300" width="570" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"  />
-</div>
-
-###
-
 <h1 align="center">Hey there, I'm Dennis 👋</h1>
 
 ###
@@ -44,7 +38,7 @@
 
 ###
 
-<div align="center">
+<div>
   <img src="https://streak-stats.demolab.com?user=tabularization&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
