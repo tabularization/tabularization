@@ -23,11 +23,9 @@ I'm a college student pursuing full-stack development. My journey in the world o
 - Currently learning React
 
 ### 📊 Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tabularization&hide=contribs,prs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabularization&layout=compact&theme=radical)
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tabularization&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tabularization&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-</div>
 
 
 
